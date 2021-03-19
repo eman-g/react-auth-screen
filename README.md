@@ -1,12 +1,17 @@
 # React Auth Screen
 
-An auth screen I built for a project. \n
+An auth screen I built for a project. 
+</br>
 Feel free to use it. :)
 
 ## Built Using
-ReactJs - https://reactjs.org \n
-Material-ui - https://material-ui.com \n
-FontAwesome - https://fontawesome.com \n\n
+ReactJs - https://reactjs.org 
+</br>
+Material-ui - https://material-ui.com 
+</br>
+FontAwesome - https://fontawesome.com 
+</br>
+</br>
 and a little love - enjoy.
 
 
