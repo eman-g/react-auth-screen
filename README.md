@@ -17,4 +17,4 @@ and a little love - enjoy.
 
 ## `DEMO`
 
-coming soon...
+https://eman-g.github.io/react-auth-screen/
